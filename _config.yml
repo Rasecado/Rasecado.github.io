@@ -1,14 +1,25 @@
-title:    Cesar Antonio Gonzales Montes # your name (or website title) here
-logo: "/images/photo2.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-# Mi objetivo principal es desarrollarm e profesionalm ente, evolucionar com o científico de datos y en el 
-# campo financiero, de m odo que busco oportunidades que m e permitan hacerlo, al tiempo que trato de 
-# alinearme completam ente con los objetivos de la empresa. 
+# title:    Cesar Antonio Gonzales Montes # your name (or website title) here
+# logo: "/images/photo2.jpg?raw=true" # your photo (or logo) here
+# description: > # your text below (remove <br> elements if you don't need line breaks)
+# # Mi objetivo principal es desarrollarm e profesionalm ente, evolucionar com o científico de datos y en el 
+# # campo financiero, de m odo que busco oportunidades que m e permitan hacerlo, al tiempo que trato de 
+# # alinearme completam ente con los objetivos de la empresa. 
+# #   <br><br>
+# # Soy una persona que está acostum brada al trabajo bajo presión. También m e considero una persona 
+# # resolutiva, con buen ánimo y capaz de enfrentar problem as y salir de ellos fácilm ente.
 #   <br><br>
-# Soy una persona que está acostum brada al trabajo bajo presión. También m e considero una persona 
-# resolutiva, con buen ánimo y capaz de enfrentar problem as y salir de ellos fácilm ente.
+#   <a href="https://www.linkedin.com/in/cesarg23/ " >View My LinkedIn Profile</a> 
+  
+# theme: jekyll-theme-minimal
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+title: Cesar Antonio Gonzales Montes # your name (or website title) here
+logo: "/images/photo2.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
   <br><br>
-  <a href="https://www.linkedin.com/in/cesarg23/ " >View My LinkedIn Profile</a> 
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/cesarg23/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

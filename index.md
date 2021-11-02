@@ -9,13 +9,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Applied-Plotting-Charting-Data-Representation-in-Python](https://github.com/Rasecado/Applied-Plotting-Charting-Data-Representation-in-Python/blob/main/Assignment2.ipynb)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 <img src="images/assignment 2.png?raw=true"/>
 ---
-[Project 3 Title](http://example.com/)
+<!-- [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+ -->
 ---
 
 <!-- ### Category Name 2

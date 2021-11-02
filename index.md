@@ -5,8 +5,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/Data Scientist Hackathon.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Scientist Hackathon](/pdf/Data Scientist Hackathon.pdf)
+<img src="images/Hackaton1.png?raw=true"/>
 
 ---
 [Applied-Plotting-Charting-Data-Representation-in-Python](https://github.com/Rasecado/Applied-Plotting-Charting-Data-Representation-in-Python/blob/main/Assignment2.ipynb)

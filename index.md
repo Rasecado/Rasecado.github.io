@@ -3,7 +3,7 @@
 ---
 ---
 
-### Category Name 1 
+<!-- ### Category Name 1  -->
 
 [Data Scientist Hackathon](/pdf/Data Scientist Hackathon.pdf)
 <img src="images/Hackaton1.png?raw=true"/>

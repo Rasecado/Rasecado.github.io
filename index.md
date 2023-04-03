@@ -12,6 +12,12 @@ aprendizaje automático me impulsan a enfrentar nuevos desafíos y alcanzar nive
 <br><br>
 
 ## Portfolio
+---
+
+<!-- ### Category Name 1  -->
+
+[MLOps Project](https://github.com/Rasecado/MLops_project)
+<img src="images/mlops_rimac.gif?raw=true"/>
 
 ---
 

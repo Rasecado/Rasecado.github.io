@@ -18,7 +18,7 @@ aprendizaje automático me impulsan a enfrentar nuevos desafíos y alcanzar nive
 <!-- ### Category Name 1  -->
 
 [Data Scientist Hackathon](/pdf/Data Scientist Hackathon.pdf)
-<img src="images/hackathon_kin.gif?raw=true"/>
+<img src="images/Hackaton1.png?raw=true"/>
 
 ---
 [Applied-Plotting-Charting-Data-Representation-in-Python](https://github.com/Rasecado/Applied-Plotting-Charting-Data-Representation-in-Python/blob/main/Assignment2.ipynb)

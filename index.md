@@ -1,14 +1,6 @@
 ## About me
 <br>
-Como Ingeniero de Aprendizaje Automático con experiencia en el sector 
-bancario, he adquirido sólidos conocimientos en inteligencia artificial, 
-análisis y procesamiento de datos, y cloud computing. Soy experto en 
-implementar modelos de aprendizaje automático, utilizando tecnologías 
-avanzadas para el procesamiento y almacenamiento de grandes volúmenes de 
-datos. Además, soy un miembro eficiente y proactivo en equipos de trabajo, 
-con habilidades demostradas para trabajar en entornos colaborativos y 
-metodologías ágiles. Mi pasión y dedicación en el campo de la ingeniería de 
-aprendizaje automático me impulsan a enfrentar nuevos desafíos y alcanzar niveles de excelencia aún mayores.
+As a Machine Learning Engineer with experience in the banking sector, I have gained a strong understanding of artificial intelligence, data analysis and processing, and cloud computing. I am highly skilled in implementing machine learning models using advanced technologies for processing and storing large volumes of data. I am also an efficient and proactive team member with demonstrated abilities to work collaboratively in agile environments. My passion and dedication to the field of machine learning engineering drive me to take on new challenges and achieve even higher levels of excellence.
 <br><br>
 
 ## Portfolio

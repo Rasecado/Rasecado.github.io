@@ -16,10 +16,10 @@ title: Cesar Antonio Gonzales Montes # your name (or website title) here
 logo: "/images/profile_pict.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  ## ML Engineer
-  ## UNMSM Economics Graduate
-  ### Email: rasecg23@gmail.com
-  
+  ##ML Engineer <br>
+  ##UNMSM Economics Graduate <br>
+  ###Email: rasecg23@gmail.com <br>
+
   <a href="https://www.linkedin.com/in/cesarg23/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

@@ -6,9 +6,10 @@ As a Machine Learning Engineer with experience in the banking sector, I have gai
 
 # Portfolio <br>
 
-[MLOps Project](https://github.com/Rasecado/MLops_project)
-<br>
+## [ML API Project](https://github.com/Rasecado/ML_project)<br>
+The ML project aims to develop an API that provides the probability of suffering a heart disease based on a machine learning model. The project will use a machine learning model trained on a dataset from Kaggle that uses LightGBM with Encoder. The project will use the BentoML ML API framework, as well as GCP Cloud Run and Docker for deployment. The LightGBM package will be used for machine learning model training and prediction. The expected outcome of the project is an API that can be used to predict the probability of heart disease given certain input data.
 
+### Stack: BentoML, LightGBM, Docker, GCP Cloud Run. 
 <img src="images/mlops_rimac.gif?raw=true"/>
 <br>
 

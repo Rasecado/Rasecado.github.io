@@ -20,10 +20,6 @@ The ML project aims to develop an API that provides the probability of suffering
 <img src="images/mlops_rimac.gif?raw=true"/>
 <br><br>
 
-:smile:
-
-':smile:'
-
 ## [Data Scientist Hackathon](/pdf/Data Scientist Hackathon.pdf) 
 <br>
 

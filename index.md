@@ -1,5 +1,5 @@
 # About me <br>
-As a Machine Learning Engineer with experience in the banking sector, I have gained a strong understanding of artificial intelligence, data analysis and processing, and cloud computing. I am highly skilled in implementing machine learning models using advanced technologies for processing and storing large volumes of data. I am also an efficient and proactive team member with demonstrated abilities to work collaboratively in agile environments. My passion and dedication to the field of machine learning engineering drive me to take on new challenges and achieve even higher levels of excellence.
+As a Machine Learning/Data Engineer with experience in the banking sector, I have gained a strong understanding of artificial intelligence, data analysis and processing, and cloud computing. I am highly skilled in implementing machine learning models using advanced technologies for processing and storing large volumes of data. I am also an efficient and proactive team member with demonstrated abilities to work collaboratively in agile environments. My passion and dedication to the field of machine learning engineering drive me to take on new challenges and achieve even higher levels of excellence.
 <br>
 
 ---
